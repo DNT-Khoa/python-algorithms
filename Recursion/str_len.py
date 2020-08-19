@@ -1,4 +1,4 @@
-# Given a string, calculate the length of the string
+# Given a string, calculate the length of the string using recursion
 
 input_str = "LucidProgramming"
 
